@@ -1,4 +1,4 @@
-- hey, what's good?
+what's good?
 
 <!---
 MulengaJR/MulengaJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
